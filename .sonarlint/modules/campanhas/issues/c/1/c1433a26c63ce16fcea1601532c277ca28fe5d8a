@@ -1,0 +1,15 @@
+
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+<squid:S1452&"&Remove usage of generic wildcard type.(²ââj
+<squid:S1452"&Remove usage of generic wildcard type.(Ÿ†©4
+Dsquid:S1452C"&Remove usage of generic wildcard type.(•Ñ®ª8Ÿ¾û¯-
+<squid:S1166*"%Either log or rethrow this exception.(”ı¾
+¬squid:S2293<"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(ãš•Š8Ÿ¾û¯-
+<squid:S1166 "%Either log or rethrow this exception.(”ı¾
+Bsquid:S14521"&Remove usage of generic wildcard type.(üŞŠ¦øÿÿÿÿ
+ªsquid:S22933"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(£Ì—§ÿÿÿÿÿ
+Csquid:S1166G"%Either log or rethrow this exception.(”ı¾8Ÿ¾û¯-
+=squid:S1452:"&Remove usage of generic wildcard type.(…ı¦
+<squid:S1166="%Either log or rethrow this exception.(”ı¾
+<squid:S11664"%Either log or rethrow this exception.(”ı¾
+ªsquid:S2293"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(ûÂ›øÿÿÿÿ

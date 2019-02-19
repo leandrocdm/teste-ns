@@ -10,6 +10,6 @@ import br.com.servicocampanha.model.Campanha;
 @Repository
 public interface CampanhaRepository extends CrudRepository<Campanha, Long>{
 
-		List<Campanha> findByIdTimeCoracao(Long codigoTime);
+		List<Campanha> findByIdTimeCoracao(Long idTimeCoracao);
 
 }
